@@ -16,10 +16,10 @@ This project was inspired by the increasing need for sustainable agricultural pr
 ![](https://github.com/deshan0/agriculture-quadcopter-simulation/blob/master/Results/flight_demo_gif.gif?raw=true)
 
 ## Tech Stack💻
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/a/a0/SolidWorks_Logo.png" alt="SolidWorks" width="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" width="60"/>
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="50"/>
+  <img src="https://github.com/Gayanukaa/Snake-Robot-Simulation/blob/main/Results/26366303391.png?raw=true" alt="SolidWorks" width="50"/>
+  <img src="https://user-images.githubusercontent.com/49899602/103332150-553fb180-4aac-11eb-8d6f-55f6a647a243.jpg" alt="LaTeX" width="50"/>
 </p>
 
 ## License 📜
